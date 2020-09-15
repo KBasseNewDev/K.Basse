@@ -1,0 +1,172 @@
+/*--------------------------------*\
+		Ici c'est le css
+	   Et je commence avec body
+\*--------------------------------*/
+html{
+	font-family: sans-serif;
+	line-height: 1.15;
+}
+body{
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	text-align: left;
+	color: #000;
+	margin:0px;
+	padding: 0px;
+	background-color: #f7f8fa;
+}
+
+/*-------------------------------------*\
+  Place au menu dans les écrans normaux 
+\*-------------------------------------*/
+header{
+	height: 100px;
+	padding: 100px 0 63px;
+}
+footer{
+	position: relative;
+	top: 170px;
+	text-align: center;
+	padding-top: 1.5rem;
+	background-color: #f7f8fa;
+	border-top: 1px solid #dee2e6; 
+}
+a{
+	text-decoration: none;
+	background-color: transparent;
+}
+/*.textCenter .pxC{
+    padding-top: 1.5rem !important;
+}
+.text-muted{
+    color: #6e6e6e !important;
+}
+.textCenter{
+    text-align: center !important;
+    color: #6e6e6e !important;
+}
+.divImg{
+	position: relative;
+	float: left;
+	left: 100px;
+}
+p {
+    font-size: 15px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}*/
+.divImg img{
+	position: relative;
+	top: auto;
+	left: 100px;
+}
+#robam{
+	padding: 0px;
+	margin: -65px 0;
+	text-align: center;
+}
+#robam li{
+	position: relative;
+	left: 130px;
+	display: inline;
+	list-style: none;
+}
+#robam a{
+	display: inline-block;
+	margin: 5px 10px;
+	text-decoration: none;
+	color: #000;
+	position: relative;
+	left: -90px;
+	font-weight: bold;
+}
+#robam img{
+	position: relative;
+	top: 5px;
+	width: 40px;
+}
+#robam input[type=submit]{
+	position: relative;
+	left: -20px;
+	cursor: pointer;
+	height: 40px;
+	width: 120px;
+	font-weight: bold;
+	border: 1px solid transparent;
+	border-radius: .1875rem;
+}
+#robam a:hover {
+	color: #2a6d98;
+}
+
+/*-----------------------------------------*\
+  Place au header et au menu respossive
+\*-----------------------------------------*/
+@media screen and (max-width: 740px){
+/*-------------------*\
+  Place au header 
+\*-------------------*/
+	body{
+		background-color: #f7f8fa;
+	}
+	header{
+		position: relative;
+		display: block;
+		float: left;
+		width: 600px;
+		height: 53px;
+		color: #f7f8fa;
+		height: 100px;
+		cursor: pointer;
+	}
+/*------------------------*\
+  Place au menu respossive
+\*------------------------*/
+	header{
+		position: static;
+	}
+	header:after{
+		display: block;
+		content: '';
+		position: absolute;
+		width: 1rem;
+		height: 0;
+		top: 50px;
+		left: 200px;
+		box-shadow: 0 10px 0 1px #000, 0 16px 0 1px #000, 0 22px 0 1px #000;
+	}
+
+	.divUl{
+		display: none;
+	}
+	.divImg img{
+		position: relative;
+		left: 0px;
+		width: 140px;
+		top: -50px;
+	}
+	.ripon{
+		text-align: center;
+		background-color: #faf7f8;
+	}
+	.img{
+		position: relative;
+		width: -100px;
+		height: auto;
+		top: -100px;
+	}
+	.alt{
+		/*text-align: center;*/
+		position: relative;
+    	top: -150px;
+	}
+	h4{
+		font-size: 27px;
+	}
+}
+
+
+

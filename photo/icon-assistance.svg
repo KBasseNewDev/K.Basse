@@ -1,0 +1,46 @@
+<svg id="icon-assistance" xmlns="http://www.w3.org/2000/svg" width="112.427" height="112.427" viewBox="0 0 112.427 112.427">
+  <g id="Group_17" data-name="Group 17">
+    <g id="XMLID_45_">
+      <g id="Group_16" data-name="Group 16">
+        <g id="Group_6" data-name="Group 6" transform="translate(42.135 79.193)">
+          <rect id="Rectangle_15" data-name="Rectangle 15" width="19.358" height="3.317"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(72.052 79.193)">
+          <rect id="Rectangle_16" data-name="Rectangle 16" width="3.52" height="3.317"/>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(96.689 17.599)">
+          <path id="Path_49" data-name="Path 49" d="M445.99,100.608h-3.317v-17.7h-5.381V79.592h8.7Z" transform="translate(-437.292 -79.592)"/>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(102.07 49.174)">
+          <rect id="Rectangle_17" data-name="Rectangle 17" width="3.317" height="3.52"/>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(26.296 63.354)">
+          <rect id="Rectangle_18" data-name="Rectangle 18" width="3.52" height="3.317"/>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(7.039 17.599)">
+          <path id="Path_50" data-name="Path 50" d="M35.154,90.049H31.837V79.592H44.054v3.317h-8.9Z" transform="translate(-31.837 -79.592)"/>
+        </g>
+        <g id="Group_12" data-name="Group 12" transform="translate(52.694 22.878)">
+          <rect id="Rectangle_19" data-name="Rectangle 19" width="31.677" height="3.317" fill="#2a6d98"/>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(66.772 36.957)">
+          <rect id="Rectangle_20" data-name="Rectangle 20" width="17.598" height="3.317" fill="#2a6d98"/>
+        </g>
+        <g id="Group_14" data-name="Group 14" transform="translate(73.811 8.799)">
+          <rect id="Rectangle_21" data-name="Rectangle 21" width="3.52" height="3.317"/>
+        </g>
+        <g id="Group_15" data-name="Group 15">
+          <path id="Path_51" data-name="Path 51" d="M112.427,91.308V10.559H93.068V0H68.532V3.317H89.752V49.275H73.125l-8.214,8.214V49.275h-17.6V3.317h15.94V0H44V10.559H0V91.308H38.251L35.56,102.07H28.521l-2.589,10.356H86.494L83.905,102.07H76.866L74.175,91.308h38.251ZM3.317,87.992V73.71H75.571V70.393H45.553V66.772A17.522,17.522,0,0,0,34.729,50.6a12.217,12.217,0,1,0-13.346,0A17.522,17.522,0,0,0,10.559,66.772v3.621H3.317V13.876H44V52.592h17.6V65.5l12.9-12.9h18.57V13.876H109.11V70.393H80.851V73.71H109.11V87.992ZM19.155,40.375a8.9,8.9,0,1,1,8.9,8.9A8.911,8.911,0,0,1,19.155,40.375ZM42.236,70.393H13.876V66.772a14.18,14.18,0,0,1,28.36,0v3.621Zm39.08,34.994.931,3.723H30.18l.931-3.723H52.694V102.07H38.979l2.69-10.762H70.757l2.69,10.762H57.973v3.317Z"/>
+          <rect id="Rectangle_22" data-name="Rectangle 22" width="3.52" height="3.317" transform="translate(65.012 79.193)"/>
+          <rect id="Rectangle_23" data-name="Rectangle 23" width="3.317" height="3.52" transform="translate(102.07 42.135)"/>
+          <rect id="Rectangle_24" data-name="Rectangle 24" width="3.317" height="3.52" transform="translate(102.07 56.213)"/>
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="3.52" height="3.317" transform="translate(26.296 56.315)"/>
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="31.677" height="3.317" transform="translate(52.694 15.839)"/>
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="31.677" height="3.317" transform="translate(52.694 29.917)"/>
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="3.52" height="3.317" transform="translate(80.851 8.799)"/>
+          <rect id="Rectangle_29" data-name="Rectangle 29" width="3.52" height="3.317" transform="translate(59.733 36.957)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

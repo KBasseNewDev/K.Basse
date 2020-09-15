@@ -1,0 +1,79 @@
+.blue{
+	background-color: /*blue;*/ rgb(14, 40, 99);
+	color: #fff;
+}/*Le boutton ici est pain en bleu grace au JavaScript*/
+/*-----------------------------------------*\
+  suite css body section
+\*-----------------------------------------*/
+.rip{
+	position: relative;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.ripon{
+	text-align: center;
+	background-color: #faf7f8;
+}
+.img{
+	max-width: 100%;
+	height: auto;
+}
+.ripou{
+	margin-bottom: 1.5rem !important;
+}
+img{
+	border-style: none;
+	position: relative;
+	top: 100px;
+}
+.alt{
+	/*text-align: center;*/
+	position: relative;
+    top: -900px;
+}
+h4{
+	font-size: 25px;
+}
+.baba{
+	color: #6e6e6e !important;
+}
+.textAli{
+	font-weight: 400px !important;
+}
+.babaAm{
+	padding-bottom: 1rem !important;
+}
+h6{
+	font-size: 17px;
+	position: relative;
+	top: -940px;
+}
+#socialFeed img{
+	width: 130px;
+}
+#tapa input{
+	position: absolute;
+	top: 0;
+	margin-left: -90px;
+}
+#tapa input:hover{
+	background-color: rgb(14, 40, 99);
+	color: #fff;
+}
+#tapa input[type=submit]{
+	cursor: pointer;
+	height: 60px;
+	width: 200px;
+	font-weight: bold;
+	border: 1px solid transparent;
+	border-radius: .1875rem;
+	border-color: blue;
+	/*background-color: #faf7f8;*/
+	/*top: -950px;*/	
+}
+/*#tapa input:hover{
+	background-color: rgb(14, 40, 99);
+	color: #fff;
+}*/
